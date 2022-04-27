@@ -24,6 +24,10 @@
 
 [Bounding box](https://boundingbox.klokantech.com/)
 
+### Draw geometries
+
+[Geojson.io](https://geojson.io/#map=2/6.8/-19.3)
+
 ### Color advice for maps
 
 [Color Brewer](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3)
