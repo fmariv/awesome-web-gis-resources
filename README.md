@@ -30,5 +30,5 @@
 
 ### Color advice for maps
 
-[Color Brewer](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3)
+[Color Brewer](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3)\
 [Bivariate choropleth color generator](https://observablehq.com/@benjaminadk/bivariate-choropleth-color-generator)
