@@ -1,5 +1,5 @@
 # Web GIS resources
-#### Useful resources for working with GIS data
+#### Useful resources aimed to work with GIS data
 
 ### Coordinates transform
 
@@ -31,3 +31,4 @@
 ### Color advice for maps
 
 [Color Brewer](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3)
+[Bivariate choropleth color generator](https://observablehq.com/@benjaminadk/bivariate-choropleth-color-generator)
