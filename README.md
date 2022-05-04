@@ -2,9 +2,11 @@
 #### Useful resources aimed to work with GIS data
 
 ### Coordinates transform
-
 [EPSG.io](http://epsg.io/transform#s_srs=4326&t_srs=3857)\
 [ICGC](https://www.icgc.cat/es/Administracion-y-empresa/Herramientas/Cambia-coordenada-formato/Calculadora)
+
+### Map data editor
+[Mapshaper](https://mapshaper.org/)
 
 ### Coordinates and format transform
 [Convertbox](https://betaportal.icgc.cat/convertbox/)
