@@ -2,7 +2,8 @@
 #### Useful resources aimed to work with GIS data
 
 ### Coordinates transform
-[EPSG.io](http://epsg.io/transform#s_srs=4326&t_srs=3857)\
+[EPSG.io](http://epsg.io/transform#s_srs=4326&t_srs=3857)
+
 [ICGC](https://www.icgc.cat/es/Administracion-y-empresa/Herramientas/Cambia-coordenada-formato/Calculadora)
 
 ### Map data editor
@@ -32,5 +33,20 @@
 
 ### Color advice for maps
 
-[Color Brewer](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3)\
+[Color Brewer](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3)
+
 [Bivariate choropleth color generator](https://observablehq.com/@benjaminadk/bivariate-choropleth-color-generator)
+
+[Chroma.js Color Palette Helper](https://gka.github.io/palettes)
+
+[MapColPal](https://mapcolpal.org)
+
+### Vector tiles
+
+[Maperture](https://stamen.github.io/maperture), a web application for comparing webmap styles.
+
+[Cartographer](https://chartographer.stamen.com/), a visualization tool that breaks down different stylesheet properties by layer and zoom level for easy analysis and debugging.
+
+### Tools and resources
+
+[Airtable CartoTools](https://airtable.com/embed/shr864WB1Q2ElGRpN/tblvGdsQDCgSexAAw?backgroundColor=blue&viewControls=on)
