@@ -1,5 +1,10 @@
-# Web GIS resources
-#### Useful resources aimed to work with GIS data
+# Awesome Web GIS resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/fmariv/web-gis-resources)
+
+Awesome Web GIS resources is a collection of geospatial related resources and tools aimed to work with geospatial data, such as cartographic tools, geospatial data generation, geospatial data visualization, and much more.
+
+**Please contribute. Let's make this guide better!**
+
+Inspired by [awesome-gis](https://github.com/sshuair/awesome-gis).
 
 ## Data generation
 
@@ -9,7 +14,9 @@
 ## Data downloading
 
 [geodatadownloader](https://geodatadownloader.com/)
+
 [Overpass Ultra](https://overpass-ultra.trailsta.sh/)
+
 [GeoDesk](http://www.geodesk.com)
 
 ## Data visualization
@@ -25,10 +32,6 @@
 [Chroma.js Color Palette Helper](https://gka.github.io/palettes)
 
 [MapColPal](https://mapcolpal.org)
-
-### Data rendering
-
-[Datashader](https://datashader.org/)
 
 ### Data displaying
 
