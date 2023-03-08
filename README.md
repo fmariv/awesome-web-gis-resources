@@ -1,6 +1,44 @@
 # Web GIS resources
 #### Useful resources aimed to work with GIS data
 
+## Data generation
+
+### Hillshade
+[Eduard](https://eduard.earth/)
+
+## Data downloading
+
+[geodatadownloader](https://geodatadownloader.com/)
+[Overpass Ultra](https://overpass-ultra.trailsta.sh/)
+[GeoDesk](http://www.geodesk.com)
+
+## Data visualization
+
+### Color advice for maps
+
+[Color Brewer](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3)
+
+[Bivariate choropleth color generator](https://observablehq.com/@benjaminadk/bivariate-choropleth-color-generator)
+
+[Colours for maps](https://observablehq.com/d/ab5d7d5a5d9e9e16)
+
+[Chroma.js Color Palette Helper](https://gka.github.io/palettes)
+
+[MapColPal](https://mapcolpal.org)
+
+### Data rendering
+
+[Datashader](https://datashader.org/)
+
+### Data displaying
+
+[Giro3D](https://giro3d.org/index.html)
+
+## Tools
+
+### Cartographic tools
+[Airtable CartoTools](https://airtable.com/embed/shr864WB1Q2ElGRpN/tblvGdsQDCgSexAAw?backgroundColor=blue&viewControls=on)
+
 ### Coordinates transform
 [EPSG.io](http://epsg.io/transform#s_srs=4326&t_srs=3857)
 
@@ -11,6 +49,7 @@
 
 ### Coordinates and format transform
 [Convertbox](https://betaportal.icgc.cat/convertbox/)
+[GDAL3.js](https://gdal3.js.org/)
 
 ### Geographic projection
 [Geo-projections](https://www.geo-projections.com/)
@@ -31,22 +70,8 @@
 
 [Geojson.io](https://geojson.io/#map=2/6.8/-19.3)
 
-### Color advice for maps
-
-[Color Brewer](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3)
-
-[Bivariate choropleth color generator](https://observablehq.com/@benjaminadk/bivariate-choropleth-color-generator)
-
-[Chroma.js Color Palette Helper](https://gka.github.io/palettes)
-
-[MapColPal](https://mapcolpal.org)
-
-### Vector tiles
+## Vector tiles
 
 [Maperture](https://stamen.github.io/maperture), a web application for comparing webmap styles.
 
 [Cartographer](https://chartographer.stamen.com/), a visualization tool that breaks down different stylesheet properties by layer and zoom level for easy analysis and debugging.
-
-### Tools and resources
-
-[Airtable CartoTools](https://airtable.com/embed/shr864WB1Q2ElGRpN/tblvGdsQDCgSexAAw?backgroundColor=blue&viewControls=on)
