@@ -78,3 +78,7 @@ Inspired by [awesome-gis](https://github.com/sshuair/awesome-gis).
 [Maperture](https://stamen.github.io/maperture), a web application for comparing webmap styles.
 
 [Cartographer](https://chartographer.stamen.com/), a visualization tool that breaks down different stylesheet properties by layer and zoom level for easy analysis and debugging.
+
+## Location APIs
+
+- [Mapbase](https://mapbase.dev/) - Location registry API that turns coordinates into official locations, custom zones, hierarchy, geometry, and SEO-ready location context.
