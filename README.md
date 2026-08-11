@@ -37,6 +37,8 @@ Inspired by [awesome-gis](https://github.com/sshuair/awesome-gis).
 
 [Giro3D](https://giro3d.org/index.html)
 
+[MapGrid](https://mapgrid.us/), a web-based platform for exploring, organizing, and sharing geospatial data.
+
 ## Tools
 
 ### Cartographic tools
