@@ -25,7 +25,7 @@ Inspired by [awesome-gis](https://github.com/sshuair/awesome-gis).
 
 - [geodatadownloader](https://geodatadownloader.com/) — Geospatial data downloading utility.
 - [Overpass Ultra](https://overpass-ultra.trailsta.sh/) — Query and explore OpenStreetMap data with Overpass.
-- [GeoDesk](http://www.geodesk.com) — Tools and resources for working with OpenStreetMap data.
+- [GeoDesk](https://www.geodesk.com/) — Open-source spatial database engine for querying and analyzing OpenStreetMap data.
 
 ## Data visualization and cartography
 
