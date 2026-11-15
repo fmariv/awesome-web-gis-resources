@@ -19,6 +19,7 @@ Inspired by [awesome-gis](https://github.com/sshuair/awesome-gis).
 - [Coordinates, Spatial Indexing & Utilities](#coordinates-spatial-indexing--utilities)
 - [Basemaps, Tiles & Map Services](#basemaps-tiles--map-services)
 - [Geospatial APIs & Location Services](#geospatial-apis--location-services)
+- [Related developer-oriented resources](#related-developer-oriented-resources)
 
 ## Web GIS & Map Makers
 
@@ -46,7 +47,6 @@ Inspired by [awesome-gis](https://github.com/sshuair/awesome-gis).
 - [Overture Maps Explorer](https://explore.overturemaps.org/) — Inspect and download Overture's global buildings, places, transportation, and other map features.
 - [Geofabrik Downloads](https://download.geofabrik.de/) — Download regional OpenStreetMap extracts.
 - [geoBoundaries](https://www.geoboundaries.org/) — Discover and download openly licensed administrative boundaries.
-- [GeoDesk](https://www.geodesk.com/) — Spatial database and query tooling for OpenStreetMap data.
 
 ## Cloud-Native Geospatial & Data Catalogs
 
@@ -60,6 +60,7 @@ Inspired by [awesome-gis](https://github.com/sshuair/awesome-gis).
 ### Large cloud-native datasets
 
 - [Overture Maps Cloud Data](https://docs.overturemaps.org/getting-data/) — Access global geospatial datasets distributed as cloud-hosted GeoParquet; includes browser exploration and download guidance.
+- [Overture Maps STAC Catalog](https://stac.overturemaps.org/catalog.json) — Browse the STAC metadata for Overture's public releases and GeoParquet assets.
 
 ## Data Processing, Conversion & Editing
 
@@ -72,7 +73,6 @@ Inspired by [awesome-gis](https://github.com/sshuair/awesome-gis).
 ### File conversion and data validation
 
 - [Convertbox](https://betaportal.icgc.cat/convertbox/) — Geospatial data conversion utility from ICGC.
-- [GDAL3.js](https://gdal3.js.org/) — Browser-facing GDAL tools for working with geospatial formats.
 - [GIS Toolbox](https://gis.taoliapp.com/) — Browser-based geospatial format conversion and coordinate tools.
 - [GeoJSONLint](https://geojsonlint.com/) — Validate GeoJSON syntax and geometry structure.
 
@@ -103,7 +103,6 @@ Inspired by [awesome-gis](https://github.com/sshuair/awesome-gis).
 
 ## 3D GIS & Terrain
 
-- [Giro3D](https://giro3d.org/index.html) — Web-based 3D geospatial visualization.
 - [Eduard](https://eduard.earth/) — Online hillshade and terrain visualization.
 - [Google Earth Web](https://earth.google.com/web/) — Explore satellite imagery, terrain, and places in a 3D globe.
 - [F4map](https://demo.f4map.com/) — Interactive 3D map visualization based on OpenStreetMap data.
@@ -152,6 +151,14 @@ Inspired by [awesome-gis](https://github.com/sshuair/awesome-gis).
 - [Mapbase](https://mapbase.dev/) — Location registry API for coordinates, administrative locations, custom zones, hierarchies, and geometries.
 - [Nominatim](https://nominatim.openstreetmap.org/ui/search.html) — Search and reverse-geocode OpenStreetMap locations through a public web interface.
 - [openrouteservice](https://openrouteservice.org/) — Routing, isochrone, and geospatial location services with online map tools.
+
+## Related developer-oriented resources
+
+These existing resources are retained for reference but are **libraries or developer tooling rather than standalone browser applications**. New submissions should normally meet the browser-tool or ready-to-use-service criteria in [CONTRIBUTING.md](CONTRIBUTING.md).
+
+- [GeoDesk](https://www.geodesk.com/) — Spatial database engine and query tooling for OpenStreetMap data.
+- [GDAL3.js](https://gdal3.js.org/) — JavaScript and WebAssembly integration for running GDAL functionality in browser-based applications.
+- [Giro3D](https://giro3d.org/index.html) — Framework for developing 3D geospatial visualizations on the web.
 
 ---
 
