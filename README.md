@@ -43,6 +43,8 @@ Inspired by [awesome-gis](https://github.com/sshuair/awesome-gis).
 [Airtable CartoTools](https://airtable.com/embed/shr864WB1Q2ElGRpN/tblvGdsQDCgSexAAw?backgroundColor=blue&viewControls=on)
 
 ### Coordinates transform
+[Calculation Hub Coordinate Converter](https://calculation-hub.com/geography/coordinate-converter) - Free decimal-degree, DMS, and UTM conversions with zone and datum notes; not an arbitrary-CRS transformation engine.
+
 [EPSG.io](http://epsg.io/transform#s_srs=4326&t_srs=3857)
 
 [ICGC](https://www.icgc.cat/es/Administracion-y-empresa/Herramientas/Cambia-coordenada-formato/Calculadora)
