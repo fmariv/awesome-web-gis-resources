@@ -27,6 +27,7 @@ Inspired by [awesome-gis](https://github.com/sshuair/awesome-gis).
 - [GeoLibre Web](https://web.geolibre.app/) — Cloud-native GIS workspace for exploring, styling, and processing geospatial datasets in the browser.
 - [Felt](https://felt.com/) — Collaborative web mapping and spatial data exploration platform.
 - [uMap](https://umap.openstreetmap.fr/) — Create and share interactive maps using OpenStreetMap basemaps.
+- [squidmaps](https://squidmaps.io/) — Free map maker for drawing or importing places, routes, and areas (CSV, GeoJSON), styling them, and sharing the map at a link.
 - [Instamaps (ICGC)](https://www.icgc.cat/en/Tools-and-viewers/Tools/Instamaps) — Free online map creation, customization, and publishing tool from the Cartographic and Geological Institute of Catalonia.
 - [CARTO](https://carto.com/) — Cloud-native location intelligence platform for geospatial analysis, data exploration, and map applications.
 
