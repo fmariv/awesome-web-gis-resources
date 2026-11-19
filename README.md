@@ -36,6 +36,7 @@ Inspired by [awesome-gis](https://github.com/sshuair/awesome-gis).
 - [Flowmap.blue](https://flowmap.blue/) — Create interactive maps of movements and flows between locations.
 - [Datawrapper Maps](https://www.datawrapper.de/maps) — Create and publish choropleth and symbol maps for data journalism and communication.
 - [Flourish](https://flourish.studio/) — Build interactive maps, animations, and data stories without writing code.
+- [Sounds of the Adriatic](https://sound.marespot.com/) — interactive sound map of the Croatian coast: tap a pin to play CC0/CC-BY field recordings.
 
 ## Data Discovery & Download
 
