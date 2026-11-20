@@ -36,6 +36,7 @@ Inspired by [awesome-gis](https://github.com/sshuair/awesome-gis).
 - [Flowmap.blue](https://flowmap.blue/) — Create interactive maps of movements and flows between locations.
 - [Datawrapper Maps](https://www.datawrapper.de/maps) — Create and publish choropleth and symbol maps for data journalism and communication.
 - [Flourish](https://flourish.studio/) — Build interactive maps, animations, and data stories without writing code.
+- [Mineral Record](https://mineralrecord.com/pipelines) — Interactive map of 409,268 miles of Texas permitted pipeline from Railroad Commission T-4 filings; identifying a clicked line's operator, system and county is part of a paid plan.
 
 ## Data Discovery & Download
 
